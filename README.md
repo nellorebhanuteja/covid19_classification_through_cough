@@ -1,7 +1,8 @@
 <br /><br />
 ## 1. About:
 
-This is a system written with a python back-end and a shell front-end, and follows object oriented programming. This is originally developed for classifying COVID19 coughs from non-COVID19 coughs. It is composed of the following parts:
+This is code for submission to INDICON 2021 titled 'Evaluating Speech Production-based Acoustic
+Features for COVID-19 Classification using Cough Signals'. This is a system written with a python back-end and a shell front-end, and follows object oriented programming. This is originally developed for classifying COVID19 coughs from non-COVID19 coughs. It is composed of the following parts:
 - Feature extraction
 - Model initialization
 - Model training, and exporting
