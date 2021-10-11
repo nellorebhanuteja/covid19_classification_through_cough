@@ -1,0 +1,20 @@
+name: INDICON2021
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.3
+  - pip
+  - pip:
+    - --index-url=https://pypi.org/simple
+    - --trusted-host=[pypi.org]
+    - scikit-learn==0.23.1
+    - librosa==0.8.0
+    - numpy==1.18.5
+    - pickle5
+    - argparse==1.1
+    - configparser
+    - matplotlib==3.2.2
+    - python_speech_features
+    - pandas
+    - seaborn
